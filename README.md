@@ -1,4 +1,4 @@
-# Flashlight
+# Flashlight By Shaking Hand!!
 
 ![Project Logo](https://raw.githubusercontent.com/NachiketaVadera/Flashlight/master/images/gif/gif1.gif)
 
