@@ -9,7 +9,7 @@ Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/NachiketaVadera/Flashlight)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Flashlight-Shak-Sensor)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -17,23 +17,17 @@ Phone: +8801904654712<br>
 
 The base of this project is LED provided along with the Camera in a typical Android smart phone. After seeing that Play Store has a number of apps that ask for unnecessary permissions, I decided to create an app that toggles the LED without asking for any type of permission. This app also implements a service that detects when the device is shook (used to toggle the flashlight). 
 
-As of June 24th of 2018, Flashlight is licensed under Apache License version 2.0.
+As of JAN 3rd of 2020, Flashlight is licensed under Apache License version 2.0.
 
 ## Downloads
 
-Latest apk:
-[Flashlight.apk](https://github.com/NachiketaVadera/Flashlight/releases/download/v1.5/Flashlight-v1.5.apk)
 
 Source Code (zip):
-[Flashlight.zip](https://github.com/NachiketaVadera/Flashlight/archive/v1.5.zip)
+[Flashlight.zip](https://github.com/raselhasandurjoy/Flashlight-Shak-Sensor)
 
-Source Code (tar.gz):
-[Flashlight.tar.gz](https://github.com/NachiketaVadera/Flashlight/archive/v1.5.tar.gz)
 
-## Contributors
 
-* Code Optimization : [RamusisTrenksmas](https://github.com/RamusisTrenksmas)
-* Logo and Images : [Dee-y](https://github.com/dee-y)
+
 
 ## Code
 
@@ -127,8 +121,4 @@ Any help, including feedback, is highly appriciated. I have just started out wit
 4. Push to the branch: `git push origin new-feature`
 5. Submit a pull request :D
 
-## Next Step
-
-Once staretd, an app can never be completely finished. 
-
-1. Revamp the project and make it better.
+### Don't forget to refer me and give your valuable Star. Happy Coding 
