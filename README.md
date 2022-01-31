@@ -2,13 +2,13 @@
 
 ![Project Logo](https://raw.githubusercontent.com/NachiketaVadera/Flashlight/master/images/gif/gif1.gif)
 
-Developer: <b>SAAD</b> <br>
+Developer: <b>Engr Saad</b> <br>
 Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
-LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
-Facebook: https://www.facebook.com/raselhasandurjoy<br>
-Company WEB: https://triangeltech.com/ <br>
-Phone: +8801904654712<br>
+LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
+Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+Company WEB: https://triangletech.com.bd/ <br>
+WhatsApp: +8801810536303<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Flashlight-Shak-Sensor)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
